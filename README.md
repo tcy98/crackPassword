@@ -1,12 +1,12 @@
 # crackPassword
 
-CS3339 Lab3
+CS3339 Lab3<br>
 In this lab we will be cracking passwords. You will be given a list of password hashes and you
-must determine the corresponding plain text password for each hash.<br> All of the hashes in this
-lab were hashed using SHA256.
+must determine the corresponding plain text password for each hash.<br>
+All of the hashes in this lab were hashed using SHA256.
 
 
-Types of passwords to look for<br>
+Types of passwords to look for:<br>
 * English words (with both lowercase and uppercase letters)
   * Eggplant, waterfall, kAngaRoO
 * 2 words (no spaces, some words may be capitalized)
